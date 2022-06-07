@@ -1,0 +1,2 @@
+# Not tracking python3 virtual env files
+.venv/
